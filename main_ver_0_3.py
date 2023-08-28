@@ -143,7 +143,7 @@ if __name__ == '__main__':
     import threading
     import time
 
-    janice_code = 'qN7jLYuoodGZoTlTZDKPcDYVOPRgbE12'
+    janice_code = ''
 
     procent_per_reprocessing = int(input("Введите свой процент Репроцесинга, без знака процент: "))
     procent_per_reprocessing = procent_per_reprocessing / 100
